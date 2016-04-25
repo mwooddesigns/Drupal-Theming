@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Elegant Gardens Functionality feature.
+ */
+
+include_once 'elegant_gardens_functionality.features.inc';
